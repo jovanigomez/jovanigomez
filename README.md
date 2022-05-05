@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovanigomez
 - 👀 I’m interested in ...software development 
-- 🌱 I’m currently learning ...how to be proficient in coding
+- 🌱 I’m currently learning ...HTML, CSS AND JAVASCRIPT 
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...jovani.gomez@gmail.com
 
