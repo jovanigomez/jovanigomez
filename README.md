@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jovanigomez
+- 👋 Hi, I’m @jovani gomez
 - 👀 I’m interested in ...software development 
 - 🌱 I’m currently learning ...HTML, CSS AND JAVASCRIPT 
 - 💞️ I’m looking to collaborate on ...projects
