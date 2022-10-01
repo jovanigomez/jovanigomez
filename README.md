@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jovani gomez
-- 👀 I’m interested in ...software development 
-- 🌱 I’m currently learning ...HTML, CSS AND JAVASCRIPT 
-- 💞️ I’m looking to collaborate on ...projects
+- 👀 I’m interested in ...Coding 
+- 🌱 I’m currently learning ...HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js, SQL, NoSQL, Express.js and React.js. 
+- 💞️ I’m looking to collaborate on ...projects 
 - 📫 How to reach me ...jovani.gomez@gmail.com
 
 <!---
